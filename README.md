@@ -17,13 +17,6 @@ Quickstart:
 
 ```sh
 # cli dependencies:
-# TEMPORARY - get the arena branch of the cargo-screeps tool, which supports arena
-git clone https://github.com/rustyscreeps/cargo-screeps.git
-cd cargo-screeps
-git checkout arena
-cargo install --path .
-cd ..
-# TEMPORARY once arena is merged, go back to simply:
 cargo install cargo-screeps
 
 # clone:
