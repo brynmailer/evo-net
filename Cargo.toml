@@ -1,5 +1,5 @@
 [package]
-name = "screeps-arena-starter-rust"
+name = "evo-net"
 version = "0.0.0"
 authors = []
 edition = "2018"
