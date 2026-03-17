@@ -1,3 +1,5 @@
+mod task;
+
 use std::sync::LazyLock;
 
 use screeps_arena::{
